@@ -13,7 +13,7 @@ That means that very common tags for a visual novel like "Romance" have much les
 
 You can download the tags and traits data files needed for this program to run from https://vndb.org/d14.
 
-You will also need to download cached character and visual novel data files from http://uppit.com/qhfhfpq4bjg4 and http://uppit.com/geo47ymuc3p2, or download them yourself using the vndb API.
+You will also need to download cached character and visual novel data files from https://vndb.org/d14.
 
 Place the tags and traits files in the project folder and extract Chars.rar and Data.rar into the project folder.
 
